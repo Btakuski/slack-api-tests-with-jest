@@ -38,7 +38,7 @@ npm install -g yarn
 
 ```
 git clone https://github.com/Btakuski/slack-api-tests-with-jest
-cd PROJECT_TITLE
+cd slack-api-tests-with-jest
 yarn install
 cp sample.env .env
 ```
